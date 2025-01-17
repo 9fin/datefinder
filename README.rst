@@ -1,6 +1,6 @@
 datefinder - extract dates from text
 ====================================
-
+ 
 .. image:: https://github.com/akoumjian/datefinder/actions/workflows/python-package.yml/badge.svg
     :target: https://github.com/akoumjian/datefinder
     :alt: Build Status
